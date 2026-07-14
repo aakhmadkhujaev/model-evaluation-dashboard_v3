@@ -1,25 +1,9 @@
-# Virtual Environment
 .venv/
-
-# Python
 __pycache__/
-*.py[cod]
-*.pyo
+*.pyc
 
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# Environment
-.env
-
-# Outputs
 outputs/models/
 outputs/reports/
 outputs/figures/
 
-# OS Files
-.DS_Store
-Thumbs.db
+.vscode/
